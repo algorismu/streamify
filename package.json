@@ -1,0 +1,29 @@
+{
+  "name": "streamify",
+  "version": "0.1.1",
+  "description": "A functional data streams.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algorismu/streamify.git"
+  },
+  "keywords": [
+    "streams",
+    "lazy"
+  ],
+  "author": "Muhammad Eid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algorismu/streamify/issues"
+  },
+  "homepage": "https://github.com/algorismu/streamify#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
